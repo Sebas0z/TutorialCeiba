@@ -11,6 +11,7 @@ public class TutorialCeibaApplicationTests {
 
 	@Test
 	public void contextLoads() {
+		System.out.println("Hola Tutorial");
 	}
 
 }

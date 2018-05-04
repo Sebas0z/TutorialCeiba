@@ -1,4 +1,4 @@
-package com.co.cieba.tutorialceiba.application;
+package com.co.cieba.tutorialceiba;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
