@@ -1,4 +1,4 @@
-package com.co.cieba.TutorialCeiba;
+package com.co.cieba.tutorialceiba.test;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -11,6 +11,7 @@ public class TutorialCeibaApplicationTests {
 
 	@Test
 	public void contextLoads() {
+		System.out.println("Hola Tutorial");
 	}
 
 }
